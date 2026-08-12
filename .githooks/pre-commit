@@ -1,0 +1,7 @@
+#!/usr/bin/env sh
+set -eu
+
+python scripts/update_infrastructure.py
+python scripts/update_infrastructure.py --check
+git add doc/infrastructure.md
+
