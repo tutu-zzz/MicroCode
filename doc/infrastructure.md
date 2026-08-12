@@ -2,7 +2,7 @@
 
 > 本文档由 `scripts/update_infrastructure.py` 自动生成，请勿直接编辑。
 >
-> 项目清单指纹：`b3bad68b11dfce25`
+> 项目清单指纹：`2e232dc348a145d5`
 >
 > 更新命令：`python scripts/update_infrastructure.py`
 
